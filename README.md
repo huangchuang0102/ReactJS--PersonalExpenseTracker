@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to code along with a React course on Udemy with added features
 
-## Available Scripts
+## Requried software
 
-In the project directory, you can run:
+To get started, you will need to download node.js at https://nodejs.org/en/download/
 
-### `npm start`
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
